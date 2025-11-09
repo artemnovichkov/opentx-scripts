@@ -14,9 +14,7 @@ Lua telemetry scripts for OpenTX/FreedomTX firmware on TBS Tango 2 controller.
 
 ## Installation
 
-1. Copy `SCRIPTS/TELEMETRY` scipts to the same folder on SD card
-2. Configure telemetry script in model settings
-3. Select `gps.lua` from telemetry screens
+Copy `SCRIPTS/TELEMETRY/gps.lua` to `SCRIPTS/TELEMETRY/` on SD card.
 
 ## Hardware
 
