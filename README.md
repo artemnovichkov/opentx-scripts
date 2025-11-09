@@ -28,6 +28,10 @@ Lua telemetry scripts for OpenTX/FreedomTX firmware on TBS Tango 2 controller.
 
 Test scripts using OpenTX Companion Simulator before deploying to hardware.
 
+## Author
+
+Artem Novichkov, https://artemnovichkov.com
+
 ## License
 
-MIT
+The project is available under the MIT license. See the [LICENSE](./LICENSE) file for more info.
